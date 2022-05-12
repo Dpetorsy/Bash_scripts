@@ -7,6 +7,7 @@
 #### Shell script from my <a href="https://github.com/dpetrosy/42-cursus">42-cursus repo, Born2beroot project.</a>
 #### Script displays information about OS(Linux), RAM, CPU, Disks usage, Connections TCP, Network and other useful information.
 #### Script output example:
+#### !!Working only on Debian based distributions(tested on Ubuntu 20.04 LTS)!!
 
     Broadcast message from ubuntu123@ubuntu (pts/2) (Thu Mar 18 21:33:10 2022):
     
