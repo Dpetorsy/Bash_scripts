@@ -5,7 +5,7 @@
 #### !!Working only on Linux distributions(tested on Ubuntu 20.04 LTS)!!
 ### monitoring.sh 
 #### Shell script from my <a href="https://github.com/dpetrosy/42-cursus">42-cursus repo, Born2beroot project.</a>
-#### Script displays information about OS(Linux), RAM, CPU, Disks usage, Connections TCP, Network and other useful information.
+#### Script displays information about OS(Linux), RAM, CPU, Disk usage, Connections TCP, Network and other useful information.
 #### !!Working only on Debian based distributions(tested on Ubuntu 20.04 LTS)!!
 #### Script output example:
 
