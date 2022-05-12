@@ -1,12 +1,12 @@
 ## Current scripts with their descriptions.
 ### comp_info.sh 
-#### The script displays information about the system and the hardware.
-#### Scripte displays information about OS(Linux), CPU, GPU, RAM and Hard disks.
+#### Script displays information about the system and the hardware.
+#### Script displays information about OS(Linux), CPU, GPU, RAM and Hard disks.
 #### !!Working only on Linux distributions(tested on Ubuntu 20.04 LTS)!!
 ### monitoring.sh 
-#### Shell scripte from my <a href="https://github.com/dpetrosy/42-cursus">42-cursus repo, Born2beroot project.</a>
-#### Scripte displays information about OS(Linux), RAM, CPU, Disks usage, Connections TCP, Network and other useful information.
-#### Scripte output example:
+#### Shell script from my <a href="https://github.com/dpetrosy/42-cursus">42-cursus repo, Born2beroot project.</a>
+#### Script displays information about OS(Linux), RAM, CPU, Disks usage, Connections TCP, Network and other useful information.
+#### Script output example:
 
     Broadcast message from ubuntu123@ubuntu (pts/2) (Thu Mar 18 21:33:10 2022):
     
