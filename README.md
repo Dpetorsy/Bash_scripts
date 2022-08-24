@@ -1,4 +1,4 @@
-## Current scripts with their descriptions.
+## Current scripts with their descriptions
 ### comp_info.sh 
 #### Script displays information about the system and the hardware.
 #### Script displays information about OS(Linux), CPU, GPU, RAM and Hard disks.
