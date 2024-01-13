@@ -12,7 +12,7 @@ Script displays information about OS(Linux), CPU, GPU, RAM and Disk usage.
 ### monitoring.sh 
 
 Shell script from my [42-cursus repo, born2beroot project](https://github.com/dpetrosy/42-cursus/tree/master/01_born2beroot).
-The script displays information about OS (Linux), RAM, CPU, Disk usage, Connections TCP, Network, and other useful information.
+The script displays information about OS(Linux), RAM, CPU, Disk usage, Connections TCP, Network, and other useful information.
 > [!Note]
 > The script works only on Debian based distributions (tested on Ubuntu 20.04 LTS).
 
