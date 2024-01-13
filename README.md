@@ -1,7 +1,7 @@
 ## 📜 About Repository
 In this repository, I store my written Shell scripts for different courses and projects.
 
-## 👨‍💻 Shell Scripts List
+## 📑 Shell Scripts List
 
 ### host_info.sh 
 
